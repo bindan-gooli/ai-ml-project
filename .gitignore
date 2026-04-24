@@ -23,13 +23,5 @@ data set 3/
 data set 4/
 data set 5/
 
-# Files over GitHub 100MB limit
-preprocessed_data/dataset_1.npz
-preprocessed_data/dataset_3.npz
-roc_curves/all_datasets_pr_curves.tiff
-roc_curves/datasets_1_2_3_auc.tiff
-roc_curves/confusion_matrix_best.tiff
-pr_curves/all_datasets_pr_curves.tiff
-
 # CatBoost
 catboost_info/
